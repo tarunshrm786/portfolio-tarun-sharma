@@ -9,6 +9,7 @@ import CssIcon from '@mui/icons-material/ColorLens';
 import JavascriptIcon from '@mui/icons-material/Javascript';
 import MongodbIcon from '@mui/icons-material/Storage';
 import ReduxIcon from '@mui/icons-material/Sync';
+import ApiIcon from '@mui/icons-material/Api';
 
 export default function About() {
   const skills = [
@@ -22,11 +23,12 @@ export default function About() {
     { name: 'JavaScript', icon: <JavascriptIcon /> },
     { name: 'MongoDB', icon: <MongodbIcon /> },
     { name: 'Redux', icon: <ReduxIcon /> },
+    { name: 'REST APIs', icon: <ApiIcon /> },
+    { name: 'API Integration', icon: <ApiIcon /> },
   ];
 
   return (
     <Box textAlign="center" py={5}>
-
       <Grid container spacing={4} justifyContent="center" mt={4}>
         <Grid item xs={12} md={8}>
           <Card sx={{ bgcolor: 'black', color: 'white' }}>
