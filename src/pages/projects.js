@@ -58,6 +58,13 @@ const projects = [
     url: 'https://kaleidoscopic-unicorn-336e08.netlify.app/'
   },
 
+  {
+    title: 'Portfolio',
+    //description: 'Description of project two.',
+    image: '/images/projects-image.jpg',
+    url: 'https://portfolio-tarun-sharma.vercel.app/'
+  },
+
 ];
 
 export default function Projects() {

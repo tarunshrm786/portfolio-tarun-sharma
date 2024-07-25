@@ -158,7 +158,7 @@ const Navbar = () => {
           </Typography>
           <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
             <Button color="inherit" component={Link} href="/">Home</Button>
-            <Button color="inherit" component={Link} href="/about">About</Button>
+            <Button color="inherit" component={Link} href="/about">About Me</Button>
             <Button color="inherit" component={Link} href="/projects">Projects</Button>
             <Button color="inherit" component={Link} href="/contact">Contact</Button>
             <Button color="inherit" href="https://www.linkedin.com/in/tarun-sharma-737b39145/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</Button>
