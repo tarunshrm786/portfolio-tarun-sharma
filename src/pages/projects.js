@@ -14,6 +14,12 @@ const projects = [
     image: '/images/projects-image.jpg',
     url: 'https://growth91.com/'
   },
+{
+    title: 'Citynect',
+   // description: 'Description of project two.',
+    image: '/images/projects-image.jpg',
+    url: 'https://citynect.in/'
+  },
   {
     title: 'Jadecaps',
     //description: 'Description of project two.',
