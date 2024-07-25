@@ -26,12 +26,11 @@ const projects = [
     image: '/images/projects-image.jpg',
     url: 'https://nextjs-blog-app-tarun-sharma.vercel.app/'
   },
-//   {
-//     title: 'Jira Issue Tracker',
-//     //description: 'Description of project two.',
-//     image: '/images/projects-image.jpg',
-//     url: 'https://project-two-url.com'
-//   },
+  {
+    title: 'String Extractor API',
+    image: '/images/projects-image.jpg',
+    url: 'https://string-extractor-api-using-nlp.vercel.app/'
+  },
   {
     title: 'Material UI Dashboard',
     //description: 'Description of project two.',
@@ -64,7 +63,7 @@ const projects = [
     image: '/images/projects-image.jpg',
     url: 'https://portfolio-tarun-sharma.vercel.app/'
   },
-
+  
 ];
 
 export default function Projects() {

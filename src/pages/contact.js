@@ -7,7 +7,8 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
 export default function Contact() {
   return (
-    <Box textAlign="center" py={5}>
+    <Box textAlign="center" py={5}
+    >
       <Typography variant="h4" gutterBottom>
         Contact Me
       </Typography>
@@ -40,3 +41,5 @@ export default function Contact() {
     </Box>
   );
 }
+
+
