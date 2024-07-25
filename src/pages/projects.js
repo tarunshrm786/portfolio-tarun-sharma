@@ -26,18 +26,12 @@ const projects = [
     image: '/images/projects-image.jpg',
     url: 'https://nextjs-blog-app-tarun-sharma.vercel.app/'
   },
-  {
-    title: 'Jira Issue Tracker',
-    //description: 'Description of project two.',
-    image: '/images/projects-image.jpg',
-    url: 'https://project-two-url.com'
-  },
-  {
-    title: 'Random Image Generator',
-    //description: 'Description of project two.',
-    image: '/images/projects-image.jpg',
-    url: 'https://kaleidoscopic-unicorn-336e08.netlify.app/'
-  },
+//   {
+//     title: 'Jira Issue Tracker',
+//     //description: 'Description of project two.',
+//     image: '/images/projects-image.jpg',
+//     url: 'https://project-two-url.com'
+//   },
   {
     title: 'Material UI Dashboard',
     //description: 'Description of project two.',
@@ -55,6 +49,13 @@ const projects = [
     //description: 'Description of project two.',
     image: '/images/projects-image.jpg',
     url: 'https:/ramagyagroup.com/'
+  },
+
+  {
+    title: 'Random Image Generator',
+    //description: 'Description of project two.',
+    image: '/images/projects-image.jpg',
+    url: 'https://kaleidoscopic-unicorn-336e08.netlify.app/'
   },
 
 ];
