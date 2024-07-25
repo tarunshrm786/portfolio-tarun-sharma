@@ -3,16 +3,60 @@ import ProjectCard from '../components/ProjectCard';
 
 const projects = [
   {
-    title: 'Project One',
-    description: 'Description of project one.',
-    image: '/images/project1.jpg',
+    title: 'Vestige',
+   // description: 'Description of project one.',
+    image: '/images/projects-image.jpg',
+    url: 'https://www.myvestige.com/'
   },
   {
-    title: 'Project Two',
-    description: 'Description of project two.',
-    image: '/images/project2.jpg',
+    title: 'Growth91',
+   // description: 'Description of project two.',
+    image: '/images/projects-image.jpg',
+    url: 'https://growth91.com/'
   },
-  // Add more projects as needed
+  {
+    title: 'Jadecaps',
+    //description: 'Description of project two.',
+    image: '/images/projects-image.jpg',
+    url: 'https://www.jadecaps.com/'
+  },
+  {
+    title: 'Tech Blogs',
+    //description: 'Description of project two.',
+    image: '/images/projects-image.jpg',
+    url: 'https://nextjs-blog-app-tarun-sharma.vercel.app/'
+  },
+  {
+    title: 'Jira Issue Tracker',
+    //description: 'Description of project two.',
+    image: '/images/projects-image.jpg',
+    url: 'https://project-two-url.com'
+  },
+  {
+    title: 'Random Image Generator',
+    //description: 'Description of project two.',
+    image: '/images/projects-image.jpg',
+    url: 'https://kaleidoscopic-unicorn-336e08.netlify.app/'
+  },
+  {
+    title: 'Material UI Dashboard',
+    //description: 'Description of project two.',
+    image: '/images/projects-image.jpg',
+    url: 'https://material-ui-project-tarun-sharma.vercel.app/'
+  },
+  {
+    title: 'Grunerrenewable',
+    //description: 'Description of project two.',
+    image: '/images/projects-image.jpg',
+    url: 'https://grunerrenewable.com'
+  },
+  {
+    title: 'Ramagyagroup',
+    //description: 'Description of project two.',
+    image: '/images/projects-image.jpg',
+    url: 'https:/ramagyagroup.com/'
+  },
+
 ];
 
 export default function Projects() {
