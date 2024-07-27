@@ -55,7 +55,12 @@ const projects = [
     image: '/images/projects-image.jpg',
     url: 'https:/ramagyagroup.com/'
   },
-
+  {
+     title: 'Todo App',
+    //description: 'Description of project two.',
+    image: '/images/projects-image.jpg',
+    url: 'https://todo-react-app-blue-five.vercel.app/login'
+  },
   {
     title: 'Random Image Generator',
     //description: 'Description of project two.',
